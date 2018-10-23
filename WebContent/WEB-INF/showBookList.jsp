@@ -20,7 +20,7 @@
 		<c:otherwise>
 		    <table border=1>
 		    
-		    <tr><th>Title</th><th>Description</th><th>Price</th></tr>
+		    <tr><th>name</th><th>familly_name</th><th>salary</th></tr>
 			<c:forEach var="book" items="${bookList}">
 	        <tr><td>${book.title}</td><td>${book.description}</td><td>${book.price}</td></tr>
 			</c:forEach>
