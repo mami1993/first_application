@@ -56,21 +56,21 @@ du compte de repository de GITHUB pour importer les classes pour les exécutées
 
 ## Built With :
 
-Spring boot 
-Oracle database
-Openshift platform 
+-Java EE
+-Oracle database
+-Openshift platform 
 
 ## Authors :
 
-Bouchelouche Mohamed 
-Safi Oussama
-Touahri Ilyes
+-Bouchelouche Mohamed 
+-Safi Oussama
+-Touahri Ilyes
 
 ## License :
 
-Ce projet est sous licence MIT d'université de constantine
+-Ce projet est sous licence MIT d'université de constantine
 
 ## Acknowledgments :
 
-Remerciements à l'enseignante de module, 
-Remerciements à l'enseignant de TP 
+-Remerciements à l'enseignante de module 
+-Remerciements à l'enseignant de TP 
