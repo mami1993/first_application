@@ -10,16 +10,12 @@ vous avez besoin d'un browser et la connection a l'internet pour lancé ce progr
 
 cette application est basé sur une collection de web services pour les conversions , permet de mettre les données à la
 disposition d'utilisateurs qui n'ont pas forcément un accès direct aux données , rendez l'application accessible via une 
-multitude d'applications exécutées sur des ordinateurs de bureau, des tablettes PC et des smartphones.
-
-la couche de données basé sur la base de données relationnelle qui utilise le langagee sql.
-
-la maniere de gestion des demandes des clients basé sur les thread , c'est pour Un usage plus efficace du processeur
-,Un système plus fiable et Des performances améliorées sur les multiprocesseurs. et tant que nous somme dans le cloud
-et notre resources est limité donc les threads c'est une bonne solution pour la gestion des demandes.
-
-cette application permet de cenverter les documents de types txt vers word et l'inverse , permet aussi de converter 
-les documents de types pdfs vers word et l'inverse.   
+multitude d'applications exécutées sur des ordinateurs de bureau, des tablettes PC et des smartphones. 
+l'ensemble des services : 
+  - service web de conversion il s'agis de converter le document.
+  - service web euthentication il s'agis de validé le client .
+  - service web send-email il s'agis denvoyer email vers le client .
+  - service web download il s'agis de telecharger le document et le supprimé apres 5 min.  
 
 ## Installing :
 
