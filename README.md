@@ -60,5 +60,5 @@ Ce projet est sous licence MIT d'université de constantine
 
 ## Acknowledgments :
 
-Remerciements à l'enseignante de module 
-Remerciements à l'enseignant de TP 
+Remerciements à l'enseignante de module, 
+Remerciements à l'enseignant de TP
