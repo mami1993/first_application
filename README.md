@@ -1,4 +1,4 @@
-## Project Name : 
+## Project Name: 
 
 application de conversion de documents sous le cloud (SAAS).
 
@@ -27,8 +27,16 @@ tant que nous somme dans le cloud et cette application est comme 'SAAS' donc ona
 on a besion seulment le browser pour uploder le document et afficher le resultat.
 
 ## Files Includes With This Project :
-         
-	classes et la base de données pas encore
+source code pas encore 
+   # base de données :
+          	|-------------------------|         |-------------------|
+                |          client         |         |   administrateur  |
+                |-------------------------|         |-------------------|
+		| id                      |         | id                |  
+		| name                    |         | name              |
+		| email                   |         | email             |
+		| conversion_nbr          |         |                   |
+		|-------------------------|         |-------------------|
 
 ## Running The Application :
 
@@ -60,5 +68,5 @@ Ce projet est sous licence MIT d'université de constantine
 
 ## Acknowledgments :
 
-Remerciements à l'enseignante de module, 
-Remerciements à l'enseignant de TP
+Remerciements à l'enseignante de module 
+Remerciements à l'enseignant de TP 
