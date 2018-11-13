@@ -17,6 +17,15 @@ l'ensemble des services :
   - service web send-email il s'agis denvoyer email vers le client .
   - service web download il s'agis de telecharger le document et le supprimé apres 5 min.  
 
+la couche de données basé sur la base de données relationnelle qui utilise le langagee sql.
+
+la maniere de gestion des demandes des clients basé sur les thread , c'est pour Un usage plus efficace du processeur
+,Un système plus fiable et Des performances améliorées sur les multiprocesseurs. et tant que nous somme dans le cloud
+et notre resources est limité donc les threads c'est une bonne solution pour la gestion des demandes.
+
+cette application permet de cenverter les documents de types txt vers word et l'inverse , permet aussi de converter 
+les documents de types pdfs vers word et l'inverse. 
+
 ## Installing :
 
 tant que nous somme dans le cloud et cette application est comme 'SAAS' donc ona pas besoin d'installé aucun chose 
