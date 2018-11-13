@@ -40,8 +40,7 @@ source code pas encore
 
 ## Running The Application :
 
-ouvrir le browser , tapez ce URL ( pas encore ) , enregistrer ( si vous etes pas encors enregistrer ) , uploder le document 
-et voila  le resultat. 
+ouvrir le browser , tapez ce URL ( pas encore ) ,  uploder le document et voila  le resultat. 
 
 ## Deployment :
 
