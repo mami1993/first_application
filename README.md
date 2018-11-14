@@ -64,7 +64,7 @@ du compte de repository de GITHUB pour importer les classes pour les exécutées
 
  - Bouchelouche Mohamed 
  - Safi Oussama
- - Touahri Ilyes
+ - Touahri Ilies
 
 ## License :
 
