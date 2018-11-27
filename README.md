@@ -24,6 +24,9 @@ la maniere de gestion des demandes des clients basé sur les thread , c'est pour
 ,Un système plus fiable et Des performances améliorées sur les multiprocesseurs. et tant que nous somme dans le cloud
 et notre resources est limité donc les threads c'est une bonne solution pour la gestion des demandes.
 
+![eozy-beret-casquette-plate-homme-chapeau-de-soleil](https://user-images.githubusercontent.com/44319251/49107789-8e2e4c00-f27e-11e8-9db2-66c1bb244024.jpg)
+
+
 cette application permet de cenverter les documents de types txt vers word et l'inverse , permet aussi de converter 
 les documents de types pdfs vers word et l'inverse. 
 
