@@ -39,11 +39,11 @@ on a besion seulment le browser pour uploder le document et afficher le resultat
 source code pas encore 
    ### base de données :
      	|-------------------------|         |-------------------|
-            |          client         |         |   administrateur  |
+            |          client         |         |   documents       |
             |-------------------------|         |-------------------|
-		| id                      |         | id                |  
+		| id_client               |         | id_document       |  
 		| name                    |         | name              |
-		| email                   |         | email             |
+		| email                   |         | id_client         |
 		| conversion_nbr          |         |                   |
 		|-------------------------|         |-------------------|
 
